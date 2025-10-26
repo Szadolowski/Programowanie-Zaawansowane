@@ -1,0 +1,27 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_lista_dwu_kierunkowa.html":[0,0,0],
+"class_lista_dwu_kierunkowa.html#a01323b26ac1290882ee8776a5fad03e6":[0,0,0,12],
+"class_lista_dwu_kierunkowa.html#a025419e73a1e580501618552bb17e177":[0,0,0,0],
+"class_lista_dwu_kierunkowa.html#a174e966ac698966dab2d8e0dab37a404":[0,0,0,8],
+"class_lista_dwu_kierunkowa.html#a1ad642c49aadde11f4cc1702e34bdbc0":[0,0,0,9],
+"class_lista_dwu_kierunkowa.html#a2b5cfd17b72514dc61d959602782fabd":[0,0,0,2],
+"class_lista_dwu_kierunkowa.html#a4ac8288e9b2b2c29384fa2daad3093e4":[0,0,0,5],
+"class_lista_dwu_kierunkowa.html#a688128c25c9dcc8c320028444cf4058c":[0,0,0,6],
+"class_lista_dwu_kierunkowa.html#a835420f5aeb3458076910d9df2094117":[0,0,0,10],
+"class_lista_dwu_kierunkowa.html#ab7aef6f12c014e10d204bd61d21fa501":[0,0,0,1],
+"class_lista_dwu_kierunkowa.html#ada613d2f478280ed3bc84dee0740d8c9":[0,0,0,7],
+"class_lista_dwu_kierunkowa.html#ada7442340a9e7da527b712a1a7899023":[0,0,0,4],
+"class_lista_dwu_kierunkowa.html#ae1eaf853e63b8e5e15e73ef8f55e01b8":[0,0,0,11],
+"class_lista_dwu_kierunkowa.html#ae7ad1f1c959970138579c23958b898ee":[0,0,0,3],
+"classes.html":[0,1],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"index.html":[],
+"lista-dwu-kierunkowa_8h_source.html":[1,0,0],
+"pages.html":[],
+"powiazanie_8cpp_source.html":[1,0,1],
+"struct_powiazanie.html":[0,0,1]
+};
